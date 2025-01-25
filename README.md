@@ -17,11 +17,6 @@ Este projeto utiliza a biblioteca **PyAutoGUI** para automatizar o processo de c
 
 ---
 
-## Como Funciona o Projeto
-
-### Passo 1: Abrir o Sistema
-O projeto utiliza o **PyAutoGUI** para abrir o navegador Firefox e acessar o sistema da empresa pelo link:
-
 # Automação de Cadastro de Produtos com Python
 
 Este projeto utiliza a biblioteca **PyAutoGUI** para automatizar o processo de cadastro de produtos em um sistema web. Além disso, é feita a leitura de uma base de dados em formato CSV para preencher os campos do sistema.
